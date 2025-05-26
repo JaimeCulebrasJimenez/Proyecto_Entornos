@@ -304,6 +304,24 @@
 											"height": 13,
 											"text": "+CambiarFotoPerfil()",
 											"horizontalAlignment": 0
+										},
+										{
+											"_type": "UMLOperationView",
+											"_id": "AAAAAAGXDdFkehx0kWY=",
+											"_parent": {
+												"$ref": "AAAAAAGW9A9PTqwpGys="
+											},
+											"model": {
+												"$ref": "AAAAAAGXDdFkchxxCm8="
+											},
+											"font": "Arial;13;0",
+											"parentStyle": true,
+											"left": 613,
+											"top": 725,
+											"width": 239.58935546875,
+											"height": 13,
+											"text": "+DarLikeHilo/Foro()",
+											"horizontalAlignment": 0
 										}
 									],
 									"font": "Arial;13;0",
@@ -311,7 +329,7 @@
 									"left": 608,
 									"top": 645,
 									"width": 249.58935546875,
-									"height": 83
+									"height": 98
 								},
 								{
 									"_type": "UMLReceptionCompartmentView",
@@ -5181,6 +5199,14 @@
 								"$ref": "AAAAAAGW9A9PTqwgfNE="
 							},
 							"name": "CambiarFotoPerfil"
+						},
+						{
+							"_type": "UMLOperation",
+							"_id": "AAAAAAGXDdFkchxxCm8=",
+							"_parent": {
+								"$ref": "AAAAAAGW9A9PTqwgfNE="
+							},
+							"name": "DarLikeHilo/Foro"
 						}
 					]
 				},
